@@ -1,0 +1,34 @@
+{
+  "Name": "Christmas",
+  "Year": "0001-01-01T00:00:00",
+  "Songs": [
+    {
+      "Name": "Christmas tree",
+      "Year": "0001-01-01T00:00:00",
+      "Styles": [
+        "rock",
+        "morden"
+      ],
+      "Author": []
+    },
+    {
+      "Name": "Merry Christmas",
+      "Year": "0001-01-01T00:00:00",
+      "Styles": [
+        "folk",
+        "rap",
+        "rock"
+      ],
+      "Author": [
+        {
+          "Name": "Jack",
+          "Surname": "Smith"
+        },
+        {
+          "Name": "Snoop",
+          "Surname": "Dogg"
+        }
+      ]
+    }
+  ]
+}
